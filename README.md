@@ -34,4 +34,14 @@ Basically these are the some basic sorting algorithms, for sorting larger datase
 
 - Here is the output of these algos:
 
-  1. 
+  1. Bubble sort:
+ 
+ ![Bubble sort](https://github.com/rathodlucky12/Soritng-Algorithms-Java/assets/131651450/889bdacb-2437-4325-9fdd-a29061585810)
+ 
+  2.
+
+ ![Selection sort](https://github.com/rathodlucky12/Soritng-Algorithms-Java/assets/131651450/cae7ad9a-ac3c-4336-81fc-10cee7e35475)
+ 
+3.
+
+![Insertion sort](https://github.com/rathodlucky12/Soritng-Algorithms-Java/assets/131651450/96de67fa-4ea5-4aee-a6c1-470684e99523)
