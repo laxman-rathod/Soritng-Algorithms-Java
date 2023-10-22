@@ -32,7 +32,7 @@ Basically these are the some basic sorting algorithms, for sorting larger datase
      - Inefficient for large datasets (O(n^2)).
      - Quicksort or Mergesort are usually better choices for larger datasets.
     
-Here is the output of these algos:
+• Here is the output of these algos:
 
 1.
 
