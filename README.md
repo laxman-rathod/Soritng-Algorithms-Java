@@ -31,17 +31,17 @@ Basically these are the some basic sorting algorithms, for sorting larger datase
    - **Disadvantages**:
      - Inefficient for large datasets (O(n^2)).
      - Quicksort or Mergesort are usually better choices for larger datasets.
+    
+Here is the output of these algos:
 
-- Here is the output of these algos:
+1.
 
-  1. 
- 
- ![Bubble sort](https://github.com/rathodlucky12/Soritng-Algorithms-Java/assets/131651450/889bdacb-2437-4325-9fdd-a29061585810)
- 
-  2.
+![Bubble sort](https://github.com/rathodlucky12/Soritng-Algorithms-Java/assets/131651450/9f49fa76-191b-4194-a71c-c7d83edc6511)
 
- ![Selection sort](https://github.com/rathodlucky12/Soritng-Algorithms-Java/assets/131651450/cae7ad9a-ac3c-4336-81fc-10cee7e35475)
- 
+2.
+
+![Insertion sort](https://github.com/rathodlucky12/Soritng-Algorithms-Java/assets/131651450/bf80a79a-3b24-4f4f-93d0-a8b4b0cf6fd8)
+
 3.
 
-![Insertion sort](https://github.com/rathodlucky12/Soritng-Algorithms-Java/assets/131651450/96de67fa-4ea5-4aee-a6c1-470684e99523)
+![Selection sort](https://github.com/rathodlucky12/Soritng-Algorithms-Java/assets/131651450/77777c74-3c24-4b4c-8258-f060d0f4644d)
